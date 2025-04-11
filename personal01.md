@@ -13,3 +13,8 @@ dos lineas
 estamos de vacaciones
 y yo trabajando
 realizara el commit el usuario 02
+
+# seguir trabajando
+
+linea 1
+linea 2
