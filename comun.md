@@ -9,3 +9,5 @@ linea 4 -- modifica el us02
 
 usu 02 - linea 01 - usu 02
 usu 02 - linea 02
+estamos de vacaciones
+y yo trabajando
