@@ -7,3 +7,9 @@ realizar commit
 
 una linea de trabajo
 dos lineas
+
+# otro dia de trabajo
+
+estamos de vacaciones
+y yo trabajando
+realizara el commit el usuario 02
