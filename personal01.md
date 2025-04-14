@@ -18,3 +18,5 @@ realizara el commit el usuario 02
 
 linea 1
 linea 2
+
+ahora estoy trabajando con el usuario 01
